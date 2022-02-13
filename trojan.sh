@@ -508,7 +508,7 @@ start_menu(){
     clear
     green " ======================================="
     green " 介绍: 一键安装trojan      "
-    green " 系统: centos7+/debian9+/ubuntu16.04+"
+    green " 系统: centos8+/debian10+/ubuntu18+"
     green " 作者: A             "
     blue " 注意:"
     red " *1. 不要在任何生产环境使用此脚本"
